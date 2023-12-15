@@ -13,6 +13,6 @@ Chỉ check 2 lần và timeout = 10 (Proxy sẽ ko có kết nối phản hồi
 Để check được những proxy chất lượng các bạn cần check nhiều lần và lựa chọn những proxy có phản hồi nhanh, chất lượng cao.
 
 # Proxy miễn phí chất lượng cao
-Chúng tôi cung cấp Proxy miễn phí và chất lượng cao tại: [Đây](https://github.com/s0ckd3/check-proxy-live). *(Phiên bản cập nhật 2.0 sắp tới)*
+Chúng tôi cung cấp Proxy miễn phí và chất lượng cao tại: [Đây](https://2movn.com/p/huong-dan-su-dung-cong-cu-quick-check-proxy). *(Phiên bản cập nhật 4.0 sắp tới)*
 
 Proxy miễn phí được kiểm tra hàng ngày và chất lượng tốt.
